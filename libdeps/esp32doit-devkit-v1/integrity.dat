@@ -1,0 +1,4 @@
+fbiego/ESP32Time@^2.0.0
+SPI
+LiquidCrystal_I2C
+Wire
